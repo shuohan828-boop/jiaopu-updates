@@ -1,14 +1,16 @@
 {
-  "versionName": "1.0.7",
-  "versionCode": 107,
+  "versionName": "1.0.9",
+  "versionCode": 109,
   "minSupportedVersion": 100,
   "forceUpdate": false,
   "minSdk": 23,
   "abis": [],
   "changelog": [
-    "比赛阵容支持多选球员和全选",
-    "球队与球员页面可直接新增球员"
+    "球员档案增加逐场比赛数据",
+    "队友搭配与对手交战胜率切换及场均详情",
+    "比赛球员可点击进入档案",
+    "子页面支持返回"
   ],
-  "apkUrl": "https://github.com/shuohan828-boop/jiaopu-updates/releases/download/v1.0.7/jiaopu-107.apk",
-  "sha256": "66abc613a0e9ebeba88e3994f2fb6baccf1913401208f0c48d76449851ab5ec7"
+  "apkUrl": "https://github.com/shuohan828-boop/jiaopu-updates/releases/download/v1.0.9/jiaopu-109.apk",
+  "sha256": "d5067fc7f9fa7da06be4bba15657d53decfcb4ab52ca11610e916d8781771dc7"
 }
